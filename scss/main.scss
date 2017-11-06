@@ -1,0 +1,27 @@
+//colors
+$orange: #e45028;
+$yellow: #f9b43b;
+$dark: #2f3234;
+$red: #e35028;
+
+// resolutions
+$desktop: 1200px;
+$laptop: 992px;
+$tablets: 768px;
+$phones: 480px;
+
+
+// normalize
+@import "../css/normalize.css";
+
+// config
+@import "config/_mixins";
+@import "layout/_fonts";
+@import "layout/_base";
+@import "layout/_layout";
+
+// blocks
+@import "bloks/first-screen";
+@import "bloks/header";
+@import "bloks/btns";
+

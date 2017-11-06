@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+  line-height: 1.42;
+  color: $dark;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body, html {
+  height: 100%;
+}
+
+
+// tag styles reset
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 0;
+  font-weight: normal;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  li {
+    list-style: none;
+  }
+}
+
+p {
+  padding: 0;
+  margin: 0;
+}
+
+
+.visuallyhidden:not(:focus):not(:active) {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
