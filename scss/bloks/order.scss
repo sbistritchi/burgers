@@ -1,5 +1,5 @@
 .order {
-  background: url("../../img/bg/order.jpg") 50% no-repeat;
+  background: url("../img/bg/order.jpg") 50% no-repeat;
   background-size: cover;
   display: flex;
   align-items: center;
@@ -160,7 +160,7 @@
   .order__radio-elem:checked {
     &+.order__radio-fake {
       &:after {
-        background: url("../../img/icons/check.svg") 50% no-repeat transparent;
+        background: url("../img/icons/check.svg") 50% no-repeat transparent;
         background-size: contain;
         width: rem(11px);
         height: rem(9px);
