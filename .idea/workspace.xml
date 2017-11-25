@@ -2,96 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2d44f2c-f00a-4d97-af9f-703547ff8d2f" name="Default" comment="first section">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/best.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/footer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/hero-bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/map-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu/diets.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu/meats.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu/vegans.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/order.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/team.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/black-burger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Black.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Cheeseburger.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Chiken.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Sandwich.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Shrimp.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/diet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/meateaters.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/menu-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/teammate.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/vegans.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/map-marker.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/mark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/shelf/Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/shelf/Default/shelved.patch" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/_svg-sprite.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/check.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/close.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/mark.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprite/sprite.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.fullpage.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/map-yandexMap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/svg4everybody.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prepros-6.config" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/best.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/burgers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/contacts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/fixed-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/fullsize-menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/menu.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/order.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/popups.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/reviews.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/section.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/team.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/config/media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/config/mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/layout/layout.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/layout/normalize.scss" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/config/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/layout/_base.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/layout/_layout.scss" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/arrow-scroll.svg" afterPath="$PROJECT_DIR$/img/icons/arrow-scroll.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/beef.svg" afterPath="$PROJECT_DIR$/img/icons/beef.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/buns.svg" afterPath="$PROJECT_DIR$/img/icons/buns.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/burger.svg" afterPath="$PROJECT_DIR$/img/icons/burger.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/cheese.svg" afterPath="$PROJECT_DIR$/img/icons/cheese.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/fb.svg" afterPath="$PROJECT_DIR$/img/icons/fb.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/hand.svg" afterPath="$PROJECT_DIR$/img/icons/hand.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/inst.svg" afterPath="$PROJECT_DIR$/img/icons/inst.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/kkal.svg" afterPath="$PROJECT_DIR$/img/icons/kkal.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/logo.svg" afterPath="$PROJECT_DIR$/img/icons/logo.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/map-marker.svg" afterPath="$PROJECT_DIR$/img/icons/map-marker.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/meat.svg" afterPath="$PROJECT_DIR$/img/icons/meat.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/natural.svg" afterPath="$PROJECT_DIR$/img/icons/natural.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/salad.svg" afterPath="$PROJECT_DIR$/img/icons/salad.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/sauce.svg" afterPath="$PROJECT_DIR$/img/icons/sauce.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/twitter.svg" afterPath="$PROJECT_DIR$/img/icons/twitter.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/vk.svg" afterPath="$PROJECT_DIR$/img/icons/vk.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/bloks/first-screen.scss" afterPath="$PROJECT_DIR$/scss/bloks/first-screen.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/bloks/header.scss" afterPath="$PROJECT_DIR$/scss/bloks/header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scss/config/_variables.scss" afterPath="$PROJECT_DIR$/scss/config/variables.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scss/layout/_fonts.scss" afterPath="$PROJECT_DIR$/scss/layout/fonts.scss" />
     </list>
     <ignored path="E:\1-LOFTSCHOOL\PARCTICA\burgers\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.807664">
+    <splitter split-orientation="horizontal" split-proportion="0.72144437">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
@@ -128,10 +39,31 @@
           <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/test.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="241" column="34" lean-forward="true" selection-start-line="241" selection-start-column="34" selection-end-line="241" selection-end-column="34" />
+                <state relative-caret-position="-136">
+                  <caret line="492" column="31" lean-forward="false" selection-start-line="492" selection-start-column="31" selection-end-line="492" selection-end-column="31" />
                   <folding>
+                    <element signature="n#style#0;n#svg#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#li#6;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#li#7;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#footer#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#footer#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#footer#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#svg#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#footer#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -154,7 +86,7 @@
           <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="540">
+                <state relative-caret-position="421">
                   <caret line="332" column="7" lean-forward="false" selection-start-line="332" selection-start-column="7" selection-end-line="332" selection-end-column="7" />
                   <folding />
                 </state>
@@ -212,6 +144,7 @@
       <find>./img/content/burgers</find>
       <find>CSS/</find>
       <find>&lt;a href=&quot;#&quot; data-scroll-to=&quot;6&quot; class=&quot;order-btn&quot;&gt;Заказать&lt;/a&gt;</find>
+      <find>./</find>
     </findStrings>
     <replaceStrings>
       <replace>first-screen</replace>
@@ -261,6 +194,7 @@
         <option value="$PROJECT_DIR$/scss/bloks/menu.scss" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/test.html" />
       </list>
     </option>
   </component>
@@ -387,7 +321,7 @@
       <updated>1509538814691</updated>
       <workItem from="1509538815919" duration="1856000" />
       <workItem from="1509991441571" duration="8462000" />
-      <workItem from="1511597990121" duration="35961000" />
+      <workItem from="1511597990121" duration="36315000" />
     </task>
     <task id="LOCAL-00001" summary="work version without order forms">
       <created>1511651019629</created>
@@ -400,7 +334,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46279000" />
+    <option name="totallyTimeSpent" value="46633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -414,7 +348,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7692308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8191633" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0634278" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -774,7 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="421">
           <caret line="332" column="7" lean-forward="false" selection-start-line="332" selection-start-column="7" selection-end-line="332" selection-end-column="7" />
           <folding />
         </state>
@@ -848,10 +782,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="241" column="34" lean-forward="true" selection-start-line="241" selection-start-column="34" selection-end-line="241" selection-end-column="34" />
+        <state relative-caret-position="-136">
+          <caret line="492" column="31" lean-forward="false" selection-start-line="492" selection-start-column="31" selection-end-line="492" selection-end-column="31" />
           <folding>
+            <element signature="n#style#0;n#svg#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#section#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#6;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#7;n#ul#0;n#section#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#footer#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#footer#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#2;n#ul#0;n#div#1;n#div#0;n#footer#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#svg#0;n#a#0;n#li#3;n#ul#0;n#div#1;n#div#0;n#footer#0;n#section#6;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
