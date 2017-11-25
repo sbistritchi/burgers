@@ -1,32 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2d44f2c-f00a-4d97-af9f-703547ff8d2f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/gagalin-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/gagalin-regular-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lifehack_medium-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/lifehack_medium-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ubuntu-b-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ubuntu-b-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ubuntu-light-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ubuntu-light-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ubuntu-medium-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ubuntu-medium-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ubuntu-regular-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/ubuntu-regular-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/first-screen.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/header.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/layout/_layout.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
+    <list default="true" id="f2d44f2c-f00a-4d97-af9f-703547ff8d2f" name="Default" comment="first section">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/best.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/footer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/hero-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/map-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu/diets.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu/meats.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/menu/vegans.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/order.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/bg/team.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/black-burger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Cheeseburger.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Chiken.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Sandwich.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/burgers/Shrimp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/diet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/meateaters.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/menu-bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/6.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/7.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/reviews/8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/teammate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/content/vegans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/map-marker.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/mark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/shelf/Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/shelf/Default/shelved.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/_svg-sprite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/check.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icons/mark.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/sprite/sprite.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.fullpage.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/map-yandexMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/svg4everybody.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/prepros-6.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/best.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/burgers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/contacts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/fixed-menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/fullsize-menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/menu.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/order.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/popups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/reviews.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/section.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/bloks/team.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/config/media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/config/mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/layout/layout.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scss/layout/normalize.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/config/_mixins.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/layout/_base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scss/layout/_layout.scss" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/arrow-scroll.svg" afterPath="$PROJECT_DIR$/img/icons/arrow-scroll.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/beef.svg" afterPath="$PROJECT_DIR$/img/icons/beef.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/buns.svg" afterPath="$PROJECT_DIR$/img/icons/buns.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/burger.svg" afterPath="$PROJECT_DIR$/img/icons/burger.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/cheese.svg" afterPath="$PROJECT_DIR$/img/icons/cheese.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/fb.svg" afterPath="$PROJECT_DIR$/img/icons/fb.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/hand.svg" afterPath="$PROJECT_DIR$/img/icons/hand.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/inst.svg" afterPath="$PROJECT_DIR$/img/icons/inst.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/kkal.svg" afterPath="$PROJECT_DIR$/img/icons/kkal.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/logo.svg" afterPath="$PROJECT_DIR$/img/icons/logo.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/map-marker.svg" afterPath="$PROJECT_DIR$/img/icons/map-marker.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/meat.svg" afterPath="$PROJECT_DIR$/img/icons/meat.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/natural.svg" afterPath="$PROJECT_DIR$/img/icons/natural.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/salad.svg" afterPath="$PROJECT_DIR$/img/icons/salad.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/sauce.svg" afterPath="$PROJECT_DIR$/img/icons/sauce.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/twitter.svg" afterPath="$PROJECT_DIR$/img/icons/twitter.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/icons/vk.svg" afterPath="$PROJECT_DIR$/img/icons/vk.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/config/_mixins.scss" afterPath="$PROJECT_DIR$/scss/config/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/layout/_base.scss" afterPath="$PROJECT_DIR$/scss/layout/_base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/layout/_fonts.scss" afterPath="$PROJECT_DIR$/scss/layout/_fonts.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/bloks/first-screen.scss" afterPath="$PROJECT_DIR$/scss/bloks/first-screen.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/bloks/header.scss" afterPath="$PROJECT_DIR$/scss/bloks/header.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/main.scss" afterPath="$PROJECT_DIR$/scss/main.scss" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/scss/layout/_adjustment.scss" afterPath="$PROJECT_DIR$/scss/bloks/btns.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/scss/config/_variables.scss" afterPath="$PROJECT_DIR$/scss/config/variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/scss/layout/_fonts.scss" afterPath="$PROJECT_DIR$/scss/layout/fonts.scss" />
     </list>
+    <ignored path="E:\1-LOFTSCHOOL\PARCTICA\burgers\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,76 +102,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5197947">
+    <splitter split-orientation="horizontal" split-proportion="0.807664">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="_base.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/layout/_base.scss">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/scss/layout/_layout.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/main.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="first-screen.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/bloks/first-screen.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="85">
-                  <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="header.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/bloks/header.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+                <state relative-caret-position="153">
+                  <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
                   <folding>
-                    <marker date="1509998352454" expanded="true" signature="228:353" ph="{...}" />
+                    <element signature="n#style#0;n#svg#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <marker date="1511650605393" expanded="false" signature="56571:56623" ph="..." />
+                    <marker date="1511650605393" expanded="false" signature="57507:57559" ph="..." />
+                    <marker date="1511650605393" expanded="false" signature="58443:58495" ph="..." />
+                    <marker date="1511650605393" expanded="false" signature="59379:59431" ph="..." />
+                    <marker date="1511650605393" expanded="false" signature="60315:60367" ph="..." />
+                    <marker date="1511650605393" expanded="false" signature="61251:61303" ph="..." />
+                    <marker date="1511650605393" expanded="false" signature="62187:62239" ph="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="_mixins.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/config/_mixins.scss">
+          <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-                  <folding />
+                <state relative-caret-position="442">
+                  <caret line="241" column="34" lean-forward="true" selection-start-line="241" selection-start-column="34" selection-end-line="241" selection-end-column="34" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
+          <file leaf-file-name="burgers.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scss/bloks/burgers.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="525">
-                  <caret line="56" column="66" lean-forward="false" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+                <state relative-caret-position="408">
+                  <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
                   <folding />
                 </state>
               </provider>
@@ -114,21 +151,41 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="header.scss" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/scss/bloks/header.scss">
+          <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="918">
-                  <caret line="54" column="26" lean-forward="false" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+                <state relative-caret-position="540">
+                  <caret line="332" column="7" lean-forward="false" selection-start-line="332" selection-start-column="7" selection-end-line="332" selection-end-column="7" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="btns.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/bloks/btns.scss">
+          <file leaf-file-name="contacts.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scss/bloks/contacts.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <state relative-caret-position="255">
+                  <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="menu.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scss/bloks/menu.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-357">
+                  <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scss/main.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="612">
+                  <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -141,9 +198,36 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>../../fonts</find>
+      <find>hero</find>
+      <find>first-screen</find>
+      <find>arrow-scroll</find>
+      <find>burgers-section</find>
+      <find>slider__title</find>
+      <find>font-family: ubuntulight</find>
+      <find>font-family: gagalinregular</find>
+      <find>@include gubuntu(light)</find>
+      <find>CSS/sprite</find>
+      <find>IMG3/</find>
+      <find>/content/burgersslider-close.svg</find>
+      <find>./img/content/burgers</find>
+      <find>CSS/</find>
+      <find>&lt;a href=&quot;#&quot; data-scroll-to=&quot;6&quot; class=&quot;order-btn&quot;&gt;Заказать&lt;/a&gt;</find>
     </findStrings>
     <replaceStrings>
+      <replace>first-screen</replace>
       <replace>../fonts</replace>
+      <replace>burgers</replace>
+      <replace>section__title section__title</replace>
+      <replace>section__title section__title_white</replace>
+      <replace>@include gubuntu(light)</replace>
+      <replace>@include gagalin</replace>
+      <replace>@include ubuntu(light)</replace>
+      <replace>./img/sprite</replace>
+      <replace>./img/content/burgers</replace>
+      <replace>/icons/slider-close.svg</replace>
+      <replace>./img/content/burgers/</replace>
+      <replace>./img/</replace>
+      <replace>&lt;a class=&quot;order-link btn&quot; href=&quot;&quot; data-scroll-to=&quot;6&quot;&gt;Заказать&lt;/a&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -155,13 +239,28 @@
         <option value="$PROJECT_DIR$/../fonts-burgers/stylesheet.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/scss/bloks/_first-screen.scss" />
-        <option value="$PROJECT_DIR$/scss/config/_mixins.scss" />
-        <option value="$PROJECT_DIR$/scss/main.scss" />
         <option value="$PROJECT_DIR$/scss/bloks/btns.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/scss/layout/_fonts.scss" />
-        <option value="$PROJECT_DIR$/scss/bloks/header.scss" />
+        <option value="$PROJECT_DIR$/scss/layout/_base.scss" />
         <option value="$PROJECT_DIR$/scss/layout/_layout.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/first-screen.scss" />
+        <option value="$PROJECT_DIR$/img/sprite/sprite.svg" />
+        <option value="$PROJECT_DIR$/scss/layout/_fonts.scss" />
+        <option value="$PROJECT_DIR$/scss/config/_mixins.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/best.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/header.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/section.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/order.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/footer.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/contacts.scss" />
+        <option value="$PROJECT_DIR$/js/map-yandexMap.js" />
+        <option value="$PROJECT_DIR$/scss/main.scss" />
+        <option value="$PROJECT_DIR$/scss/config/mixins.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/fullsize-menu.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/burgers.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/team.scss" />
+        <option value="$PROJECT_DIR$/scss/bloks/menu.scss" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -193,6 +292,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -204,17 +304,19 @@
             <path>
               <item name="burgers" type="b2602c69:ProjectViewProjectNode" />
               <item name="burgers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="burgers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="burgers" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="fonts" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="burgers" type="b2602c69:ProjectViewProjectNode" />
               <item name="burgers" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bg" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="burgers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="burgers" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="content" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="burgers" type="b2602c69:ProjectViewProjectNode" />
@@ -243,19 +345,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
-    <property name="last_opened_file_path" value="C:/Program Files (x86)/Koala/Koala.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BurgerBar-master" />
     <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\1-LOFTSCHOOL\PARCTICA\burgers\fonts" />
+      <recent name="E:\1-LOFTSCHOOL\PARCTICA\burgers\js" />
+      <recent name="E:\1-LOFTSCHOOL\PARCTICA\burgers\img\content" />
+      <recent name="E:\1-LOFTSCHOOL\PARCTICA\burgers\scss\bloks" />
+      <recent name="E:\1-LOFTSCHOOL\PARCTICA\burgers\img\icons" />
+      <recent name="E:\1-LOFTSCHOOL\PARCTICA\burgers\img\bg" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -281,32 +386,42 @@
       <option name="presentableId" value="Default" />
       <updated>1509538814691</updated>
       <workItem from="1509538815919" duration="1856000" />
-      <workItem from="1509991441571" duration="6867000" />
+      <workItem from="1509991441571" duration="8462000" />
+      <workItem from="1511597990121" duration="35961000" />
     </task>
+    <task id="LOCAL-00001" summary="work version without order forms">
+      <created>1511651019629</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511651019629</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8723000" />
+    <option name="totallyTimeSpent" value="46279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28213367" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12789203" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7692308" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.8191633" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -332,20 +447,92 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first section" />
+    <MESSAGE value="work version without order forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="work version without order forms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scss/layout/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="57" column="89" lean-forward="true" selection-start-line="57" selection-start-column="89" selection-end-line="57" selection-end-column="89" />
+          <folding>
+            <element signature="n#style#0;n#svg#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1511650605393" expanded="false" signature="56571:56623" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="57507:57559" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="58443:58495" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="59379:59431" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="60315:60367" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="61251:61303" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="62187:62239" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/layout/layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="16" lean-forward="true" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/first-screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -355,7 +542,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -371,11 +557,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/layout/_fonts.scss">
+    <entry file="file://$PROJECT_DIR$/scss/layout/fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -387,7 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -396,7 +580,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -406,15 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
           <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="124" column="19" lean-forward="false" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -422,14 +596,69 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/layout/_base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="false" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/config/_mixins.scss">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="1904">
+          <caret line="112" column="14" lean-forward="false" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="119" column="1" lean-forward="true" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/config/media.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/byrgers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/sprite/sprite.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="0" column="1363" lean-forward="true" selection-start-line="0" selection-start-column="1363" selection-end-line="0" selection-end-column="1363" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/icons/phone.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/popups.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -442,61 +671,188 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/scss/bloks/order.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="56" column="66" lean-forward="false" selection-start-line="56" selection-start-column="66" selection-end-line="56" selection-end-column="66" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/layout/layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="45" column="15" lean-forward="true" selection-start-line="45" selection-start-column="15" selection-end-line="46" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/layout/fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="39" column="13" lean-forward="true" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/content/teammate.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/first-screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1041">
+          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/section.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/reviews.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/best.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-514">
+          <caret line="2" column="23" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/team.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/main.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="19" lean-forward="false" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        <state relative-caret-position="612">
+          <caret line="36" column="24" lean-forward="false" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/layout/_base.scss">
+    <entry file="file://$PROJECT_DIR$/scss/bloks/contacts.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        <state relative-caret-position="255">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/layout/_fonts.scss">
+    <entry file="file://$PROJECT_DIR$/scss/bloks/menu.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+        <state relative-caret-position="-357">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/bloks/first-screen.scss">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="540">
+          <caret line="332" column="7" lean-forward="false" selection-start-line="332" selection-start-column="7" selection-end-line="332" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/bloks/header.scss">
+    <entry file="file://$PROJECT_DIR$/js/svg4everybody.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="391">
+          <caret line="23" column="40" lean-forward="true" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/fullsize-menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="0" lean-forward="true" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/config/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="42" column="11" lean-forward="false" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/map-yandexMap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/fixed-menu.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/burgers.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" lean-forward="false" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding>
-            <marker date="1509998352454" expanded="true" signature="228:353" ph="{...}" />
+            <element signature="n#style#0;n#svg#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#section#5;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1511650605393" expanded="false" signature="56571:56623" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="57507:57559" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="58443:58495" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="59379:59431" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="60315:60367" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="61251:61303" ph="..." />
+            <marker date="1511650605393" expanded="false" signature="62187:62239" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/layout/_layout.scss">
+    <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding />
+          <caret line="241" column="34" lean-forward="true" selection-start-line="241" selection-start-column="34" selection-end-line="241" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

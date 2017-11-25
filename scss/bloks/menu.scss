@@ -1,0 +1,125 @@
+.menu-bg {
+	background: #000000 url("../../img/bg/menu.jpg") no-repeat 35% center;
+	background-size: cover;
+	position: relative;
+	height: 100%;
+	width: 100%;
+	color: #ffffff;
+}
+
+.menu__head {
+	position: absolute;
+	top: rem(87px);
+	left: rem(95px);
+}
+
+
+.menu__accordeon {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 40%;
+
+	@include tablets {
+		left: 0;
+	}
+
+}
+
+.menu__list {
+	display: flex;
+	justify-content: flex-end;
+	min-height: rem(650px);
+	height: 100%;
+}
+
+.menu__item {
+	display: flex;
+	justify-content: flex-start;
+}
+
+.menu__namebg {
+	height: 100%;
+	min-height: rem(650px);
+	width: rem(80px);
+	display: flex;
+	flex-direction: column-reverse;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+
+	@each $namebg in meateaters, vegans, diet {
+		&_#{$namebg} {
+			background:#000000 url('../../img/content/#{$namebg}.png') no-repeat center center;
+			background-size: cover;
+		}
+	}
+
+	@include tablets {
+		justify-content: flex-start;
+	}
+
+	// @include phones {
+	//     width: rem(60px);
+	// }
+}
+
+.menu__name {
+	display: block;
+	margin: 0;
+	position: absolute;
+	left: rem(-137px);
+	top: 50%;
+	transform: rotate(-90deg);
+	@include gagalin;
+	font-size: rem(40px);
+	font-weight: 400;
+	color: #ffffff;
+	width: rem(350px);
+	line-height: 1;
+	text-align: center;
+
+	@include tablets {
+		vertical-align: middle;
+		text-align: left;
+		top: initial;
+		bottom: rem(200px);
+		left: rem(-137px);
+	}
+
+	@include phones {
+		bottom: rem(190px);
+		left: rem(-130px);
+	}
+}
+
+.menu__container {
+	width: rem(0px);
+	overflow: hidden;
+	transition: .5s;
+	flex-grow: 2;
+	background-color: rgba(#000000, 0.8);
+}
+
+.menu__desc {
+	color: #ffffff;
+	font-size: rem(14px);
+	line-height: rem(24px);
+	@include ubuntu;
+	padding: rem(60px) rem(35px);
+	display: none;
+
+}
+
+.menu__trigger_active {
+	.menu__name {
+		color: #ffffff;
+
+		@include tablets {
+			color: #f9b43b;
+		}
+	}
+
+
+}

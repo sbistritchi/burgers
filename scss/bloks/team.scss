@@ -1,0 +1,188 @@
+.team {
+	background: #000000 url("../../img/bg/team.jpg") no-repeat center center;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+}
+
+.team-bg {
+	height: 100%;
+	width: 100%;
+}
+
+.teammates-bg {
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+
+.teammates {
+	position: absolute;
+	top: 0;
+	left: 51%;
+	bottom: 0;
+	right: 0;
+	background-color: rgba(#000000, 0.8);
+
+	display: flex;
+	flex-direction: column;
+
+	@include tablets {
+		left: 0;
+		align-items: center;
+	}
+}
+
+.teammates__title {
+	display: block;
+
+	margin: rem(90px) rem(0px) rem(46px) rem(88px);
+
+
+
+	@include tablets {
+		margin-left: 0;
+		margin-top: rem(100px);
+	}
+
+	@include phones {
+		font-size: rem(50px);
+		margin-top: rem(65px);
+	}
+}
+
+.teammates__accordeon {
+	margin: rem(0px) rem(80px);
+
+	@include tablets {
+		margin-top: rem(55px);
+	}
+
+	@include phones {
+		margin: rem(30px) rem(30px) 0;
+	}
+}
+
+.teammates__item {
+	display: flex;
+	flex-direction: column;
+
+	@include tablets {
+		align-items: center;
+	}
+}
+
+
+.teammates__name {
+	margin: 0;
+	display: inline-block;
+	@include gagalin;
+	font-size: rem(14px);
+	font-weight: 400;
+	color: #ffffff;
+
+	display: flex;
+	align-items: center;
+	padding: rem(15px) rem(0px);
+
+	&:before {
+		content: "";
+		height: 0;
+		width: 0;
+		border: 4.5px solid transparent;
+		border-top-color: #f9b43b;
+		border-bottom-width: rem(0px);
+		margin-right: rem(9px);
+		transition: .5s;
+	}
+
+	@include tablets {
+		font-size: rem(24px);
+		line-height: rem(28px);
+		padding: rem(20px) rem(0px);
+	}
+
+	@include tablets {
+		font-size: rem(24px);
+		line-height: rem(28px);
+		padding: rem(15px) rem(0px);
+	}
+}
+
+.teammates__container {
+	height: rem(0px);
+	overflow: hidden;
+	transition: .5s;
+}
+
+.teammates__desc{
+	display: flex;
+
+	@include tablets {
+		flex-direction: column;
+		align-items: center;
+	}
+
+	@include phones {
+		margin-top: rem(15px);
+	}
+}
+
+.teammates__foto {
+	width: 100px;
+	height: 100px;
+	margin-left: rem(15px);
+
+}
+
+.teammates__teampic {
+	width: rem(100px);
+	height: rem(100px);
+	border-radius: 50%;
+	@include cover;
+}
+
+.teammates__text {
+	width: 66%;
+	color: #ffffff;
+	font-size: rem(14px);
+	line-height: rem(24px);
+	@include ubuntu(light);
+	padding: rem(0px) rem(20px);
+
+
+
+	@include tablets {
+		text-align: center;
+		width: 66%;
+	}
+
+	@include phones {
+		width: 90%;
+	}
+}
+
+.teammates__job {
+	margin: 0;
+	@include ubuntu(bold);
+	font-size: rem(14px);
+
+	@include tablets {
+		text-align: center;
+	}
+}
+
+.teammates__trigger_active {
+	.teammates__name:before {
+		transform: scale(1, -1);
+	}
+
+	.teammates__name {
+		color: #f9b43b;
+	}
+
+	+.teammates__desc {
+		height: 23%;
+		min-height: rem(120px);
+	}
+}

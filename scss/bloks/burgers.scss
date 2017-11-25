@@ -1,0 +1,368 @@
+.burgers {
+	background-image: linear-gradient(to bottom,
+					#f9b43b, #eb8e38 50%, #f9b43b 74%);
+}
+
+.slider {
+	flex-direction: row;
+	position: relative;
+}
+
+.slider__left, .slider__right {
+	min-width: rem(29px);
+	position: absolute;
+	z-index: 200;
+}
+
+.slider__left {
+	left: -5%;
+	top: 50%;
+
+	@include laptop{
+		left: 0;
+	}
+
+	@include tablets {
+		left: 5%
+	}
+}
+
+.slider__right {
+	right: -5%;
+	top: 50%;
+
+	@include laptop{
+		right:0;
+	}
+
+	@include tablets {
+		right: 5%
+	}
+}
+
+
+.slider__arrow {
+	width: rem(29px);
+	height: rem(14px);
+
+	&-left {
+		transform: rotate(90deg);
+	}
+
+	&-right {
+		transform: rotate(-90deg)
+	}
+}
+.arrow__icon {
+	width: 100%;
+	height: 100%;
+	fill: #ffffff;
+}
+
+.slider__middle{
+	width: 90%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+
+}
+
+
+.slider__main {
+	// display: flex;
+	flex-shrink: 0;
+	align-items: center;
+	justify-content: center;
+	height: 60%;
+	position: absolute;
+	width: 100%;
+	padding: 0 5%;
+	display: none;
+	opacity: 0;
+	transition: opacity 0.5s;
+
+
+	@include tablets {
+		height: 80%;
+		width: 80%;
+		padding: 0 rem(20px);
+		flex-direction: column;
+
+	}
+
+
+	&-active {
+		display: flex;
+	}
+
+	&-first {
+		opacity: 1;
+	}
+}
+
+.slider__image {
+	max-width: rem(505px);
+	max-height: rem(329px);
+	width: 50%;
+	flex-shrink: 1;
+
+	@include tablets {
+		width: 80%;
+	}
+}
+
+.slider__composition {
+	position: absolute;
+	left: 0;
+	top: 0;
+	background-color: rgba($red, 0.4);
+	border-radius: 5px;
+	width: rem(90px);
+	height: rem(90px);
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+
+	&_active {
+		background-color: $red;
+		transition: background-color 0.1s;
+	}
+}
+
+.slider__burger {
+	width: rem(46px);
+	height: rem(44px);
+	fill: #ffffff;
+	margin-top: rem(15px);
+
+	&:after {
+		content: 'состав';
+		color: #ffffff;
+		font-size: rem(14px);
+		@include gagalin;
+		font-weight: 400;
+		text-align: center;
+		display: block;
+	}
+}
+
+.slider__products {
+	position: absolute;
+	top: 0;
+	left: rem(90px);
+	width: rem(270px);
+	height: rem(330px);
+	background-color: rgba(#ffffff, 0.8);
+	border-radius: rem(5px);
+	transform: scale(0);
+	transition: transform 0.5s;
+	transform-origin: 0% 0%;
+	z-index: 1000;
+
+	// &:hover {
+	//     transform: scale(1);
+	// }
+
+	&_shown {
+		transform: scale(1);
+	}
+
+	@include tablets {
+		display: flex;
+		width: rem(320px);
+	}
+}
+
+.slider__close {
+	display: none;
+
+	@include tablets {
+		display: block;
+		position: relative;
+		padding-top: rem(10px);
+		padding-left: rem(10px);
+		z-index: 1000;
+
+	}
+}
+
+.slider__table {
+	display: table;
+	width: rem(270px);
+}
+
+.slider__tablerow {
+	height: rem(55px);
+	display: table-row;
+}
+
+.slider__tablecell {
+	display: table-cell;
+	vertical-align: middle;
+
+	&_img {
+		padding-left: rem(20px);
+	}
+
+	&_icon {
+		width: rem(50px);
+		height: rem(50px);
+		padding: rem(5px);
+		display: inline-block;
+		text-align: center;
+	}
+
+	&_weight {
+		text-align: right;
+		padding-right: rem(20px);
+		@include ubuntu(light);
+	}
+}
+
+.slider__prodicon {
+	height: 100%;
+	width: 100%;
+
+	&_beef,
+	&_sauce {
+		fill: #e25028;
+	}
+
+	&_buns,
+	&_cheese {
+		fill: #f8b43a;
+	}
+
+	&_salad,
+	&_cucumber {
+		fill: #8ac03e;
+	}
+}
+
+.slider__kcal {
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+
+	@include tablets {
+		bottom: initial;
+		top: 0;
+		left: initial;
+		right: 0;
+	}
+}
+
+.slider__kettlebell {
+	width: rem(60px);
+	height: rem(60px);
+	fill: #ffffff;
+	margin-top: rem(15px);
+	position: relative;
+
+	&:after {
+		content: 'ккал';
+		text-transform: uppercase;
+		color: #ffffff;
+		font-size: rem(14px);
+		@include gagalin;
+		font-weight: 400;
+		text-align: center;
+		display: block;
+	}
+}
+
+.slider__amount {
+	position: absolute;
+	left: 25%;
+	top: 55%;
+	color: #ffffff;
+	font-size: rem(20px);
+	@include gagalin;
+	font-weight: 400;
+}
+
+.slider__kcalicon, .slider__burgericon, .slider__img {
+	height: 100%;
+	width: 100%;
+}
+
+.slider__content {
+	display: flex;
+	flex-direction: column;
+	width: 50%;
+	padding-left: 5%;
+
+	@include tablets {
+		width: 100%;
+		align-items: center;
+		// height: 50%;
+	}
+}
+
+.slider__title {
+
+	line-height: rem(64px);
+	padding: 0;
+	margin: 0;
+	font-weight: 400;
+
+	@include tablets {
+		text-align: center;
+	}
+}
+
+.slider__desc {
+	font-size: rem(14px);
+	line-height: rem(24px);
+	@include ubuntu(light);
+	color: #ffffff;
+	padding-right: rem(29px);
+
+	@include tablets {
+		padding-right: 0;
+		width: 100%;
+		text-align: center;
+	}
+
+	@include phones {
+		margin-bottom: rem(25px);
+	}
+}
+
+.slider__bottom {
+	display: flex;
+	flex-direction: row;
+	align-items: baseline;
+
+	@include phones {
+		align-items: flex-end;
+	}
+}
+
+.slider__price {
+	@include gagalin;
+	color: $red;
+	font-size: rem(72px);
+	font-weight: 400;
+	margin: 0 10px 0 0;
+	margin-right: rem(30px);
+	padding: 0;
+
+	@include phones {
+		line-height: 2rem;
+	}
+
+	&:after {
+		content: 'рублей';
+		@include gagalin;
+		color: $red;
+		font-size: rem(30px);
+		font-weight: 400;
+	}
+}
+

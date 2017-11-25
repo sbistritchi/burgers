@@ -1,8 +1,9 @@
 //colors
 $orange: #e45028;
 $yellow: #f9b43b;
-$dark: #2f3234;
+$black: #2f3234;
 $red: #e35028;
+
 
 // resolutions
 $desktop: 1200px;
@@ -12,16 +13,33 @@ $phones: 480px;
 
 
 // normalize
-@import "../css/normalize.css";
+@import "layout/normalize";
+
+// media
+@import "config/media";
 
 // config
-@import "config/_mixins";
-@import "layout/_fonts";
-@import "layout/_base";
-@import "layout/_layout";
+@import "layout/fonts";
+@import "layout/layout";
+@import "config/mixins";
+
+
 
 // blocks
-@import "bloks/first-screen";
+@import "bloks/section";
 @import "bloks/header";
 @import "bloks/btns";
+@import "bloks/first-screen";
+@import "bloks/best";
+@import "bloks/burgers";
+@import "bloks/team";
+@import "bloks/menu";
+@import "bloks/reviews";
+@import "bloks/order";
+@import "bloks/contacts";
+@import "bloks/popups";
+@import "bloks/fixed-menu";
+@import "bloks/fullsize-menu";
+
+
 
