@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f2d44f2c-f00a-4d97-af9f-703547ff8d2f" name="Default" comment="first section">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/bloks/contacts.scss" afterPath="$PROJECT_DIR$/scss/bloks/contacts.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/bloks/first-screen.scss" afterPath="$PROJECT_DIR$/scss/bloks/first-screen.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/bloks/menu.scss" afterPath="$PROJECT_DIR$/scss/bloks/menu.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/bloks/order.scss" afterPath="$PROJECT_DIR$/scss/bloks/order.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/bloks/team.scss" afterPath="$PROJECT_DIR$/scss/bloks/team.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css.map" afterPath="$PROJECT_DIR$/css/main.css.map" />
     </list>
     <ignored path="E:\1-LOFTSCHOOL\PARCTICA\burgers\.idea\shelf/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,7 +82,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="order.scss" pinned="false" current-in-tab="true">
+          <file leaf-file-name="order.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/scss/bloks/order.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="17">
@@ -95,11 +92,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="btns.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/bloks/btns.scss">
+          <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/css/main.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+                <state relative-caret-position="-590">
+                  <caret line="818" column="25" lean-forward="true" selection-start-line="818" selection-start-column="25" selection-end-line="819" selection-end-column="21" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/scss/main.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -120,16 +127,6 @@
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="166">
                   <caret line="87" column="20" lean-forward="true" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="section.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/scss/bloks/section.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="425">
-                  <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="26" />
                   <folding />
                 </state>
               </provider>
@@ -342,7 +339,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47489000" />
+    <option name="totallyTimeSpent" value="48115000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -586,22 +583,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/scss/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/layout/_base.scss" />
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1904">
-          <caret line="112" column="14" lean-forward="false" selection-start-line="112" selection-start-column="14" selection-end-line="112" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/bloks/header.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
@@ -675,14 +657,6 @@
     <entry file="file://$PROJECT_DIR$/img/content/teammate.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/bloks/first-screen.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/scss/bloks/section.scss">
@@ -850,10 +824,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/scss/bloks/first-screen.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/scss/bloks/order.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="22" lean-forward="false" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-590">
+          <caret line="818" column="25" lean-forward="true" selection-start-line="818" selection-start-column="25" selection-end-line="819" selection-end-column="21" />
           <folding />
         </state>
       </provider>
