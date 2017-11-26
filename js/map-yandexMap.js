@@ -14,21 +14,21 @@ $(document).ready(function() {
 
         var burger1 = new ymaps.Placemark([59.970609, 30.310975], {}, {
             iconLayout: 'default#image',
-            iconImageHref: '../img/icons/map-marker.png',
+            iconImageHref: 'img/icons/map-marker.png',
             iconImageSize: [46, 57],
             iconImageOffset: [-23, -57]
         }); // burger 1
 
         var burger2 = new ymaps.Placemark([59.945041, 30.382558], {}, {
             iconLayout: 'default#image',
-            iconImageHref: '../img/icons/map-marker.png',
+            iconImageHref: './img/icons/map-marker.png',
             iconImageSize: [46, 57],
             iconImageOffset: [-23, -57]
         }); // burger 2
 
         var burger3 = new ymaps.Placemark([59.915834, 30.492936], {}, {
             iconLayout: 'default#image',
-            iconImageHref: '../img/icons/map-marker.png',
+            iconImageHref: '/img/icons/map-marker.png',
             iconImageSize: [46, 57],
             iconImageOffset: [-23, -57]
         }); // burger 3
