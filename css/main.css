@@ -693,7 +693,7 @@ footer {
     background-color: #ce401a; }
 
 .first-screen {
-  background: url("../../img/bg/hero-bg.jpg") center center no-repeat;
+  background: url("../img/bg/hero-bg.jpg") center center no-repeat;
   background-size: cover;
   position: relative; }
   @media screen and (max-width: 768px) {
@@ -815,7 +815,7 @@ footer {
   fill: #fff; }
 
 .best {
-  background: url("../../img/bg/best.jpg") no-repeat;
+  background: url("../img/bg/best.jpg") no-repeat;
   background-size: cover;
   text-align: center;
   display: -webkit-box;
@@ -1277,7 +1277,7 @@ footer {
     font-weight: 400; }
 
 .team {
-  background: #000000 url("../../img/bg/team.jpg") no-repeat center center;
+  background: #000000 url("../img/bg/team.jpg") no-repeat center center;
   background-size: cover;
   height: 100%;
   width: 100%; }
@@ -1469,7 +1469,7 @@ footer {
   min-height: 7.5rem; }
 
 .menu-bg {
-  background: #000000 url("../../img/bg/menu.jpg") no-repeat 35% center;
+  background: #000000 url("../img/bg/menu.jpg") no-repeat 35% center;
   background-size: cover;
   position: relative;
   height: 100%;
@@ -1536,13 +1536,13 @@ footer {
   align-items: center;
   position: relative; }
   .menu__namebg_meateaters {
-    background: #000000 url("../../img/content/meateaters.png") no-repeat center center;
+    background: #000000 url("../img/content/meateaters.png") no-repeat center center;
     background-size: cover; }
   .menu__namebg_vegans {
-    background: #000000 url("../../img/content/vegans.png") no-repeat center center;
+    background: #000000 url("../img/content/vegans.png") no-repeat center center;
     background-size: cover; }
   .menu__namebg_diet {
-    background: #000000 url("../../img/content/diet.png") no-repeat center center;
+    background: #000000 url("../img/content/diet.png") no-repeat center center;
     background-size: cover; }
   @media screen and (max-width: 768px) {
     .menu__namebg {
@@ -1734,7 +1734,7 @@ footer {
     background-color: #1f2122; }
 
 .order {
-  background: url("../../img/bg/order.jpg") 50% no-repeat;
+  background: url("../img/bg/order.jpg") 50% no-repeat;
   background-size: cover;
   display: -webkit-box;
   display: -webkit-flex;
@@ -1880,7 +1880,7 @@ footer {
   background: transparent; }
 
 .order__radio_checkbox .order__radio-elem:checked + .order__radio-fake:after {
-  background: url("../../img/icons/check.svg") 50% no-repeat transparent;
+  background: url("../img/icons/check.svg") 50% no-repeat transparent;
   background-size: contain;
   width: 0.6875rem;
   height: 0.5625rem; }
@@ -1906,7 +1906,7 @@ footer {
   background: transparent; }
 
 .contacts {
-  background: #000000 url("../../img/bg/map-bg.png") no-repeat center center;
+  background: #000000 url("../img/bg/map-bg.png") no-repeat center center;
   background-size: cover;
   height: 100%;
   width: 100%;
