@@ -333,7 +333,6 @@ $(document).ready(function() {
     ymaps.ready(init);
     var myMap, burger1, burger2, burger3, burger4;
 
-    console.log('conectet')
 
     function init(){
         myMap = new ymaps.Map ("map", {
@@ -343,28 +342,28 @@ $(document).ready(function() {
 
         var burger1 = new ymaps.Placemark([59.970609, 30.310975], {}, {
             iconLayout: 'default#image',
-            iconImageHref: 'img/icons/map-marker.png',
+            iconImageHref: '../img/icons/map-marker.png',
             iconImageSize: [46, 57],
             iconImageOffset: [-23, -57]
         }); // burger 1
 
         var burger2 = new ymaps.Placemark([59.945041, 30.382558], {}, {
             iconLayout: 'default#image',
-            iconImageHref: 'img/icons/map-marker.png',
+            iconImageHref: '../img/icons/map-marker.png',
             iconImageSize: [46, 57],
             iconImageOffset: [-23, -57]
         }); // burger 2
 
         var burger3 = new ymaps.Placemark([59.915834, 30.492936], {}, {
             iconLayout: 'default#image',
-            iconImageHref: 'img/icons/map-marker.png',
+            iconImageHref: '../img/icons/map-marker.png',
             iconImageSize: [46, 57],
             iconImageOffset: [-23, -57]
         }); // burger 3
 
         var burger4 = new ymaps.Placemark([59.888039, 30.315425], {}, {
             iconLayout: 'default#image',
-            iconImageHref: 'img/icons/map-marker.png',
+            iconImageHref: '../img/icons/map-marker.png',
             iconImageSize: [46, 57],
             iconImageOffset: [-23, -57]
         }); // burger 4
